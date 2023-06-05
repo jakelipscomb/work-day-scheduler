@@ -8,7 +8,8 @@ This project is a demonstration of a day planner made with javascript. The proje
 
 https://jakelipscomb.github.io/work-day-scheduler/
 
-![Work Day Scheduler](assets/images/work-day-scheduler.png)
+![Work Day Scheduler]
+
 
 ## **Technologies**
 Project is created with:
